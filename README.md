@@ -1,1 +1,2 @@
 # LucarioAura
+Hey guys, all credits to the original creator of 44VBA. The reason i am making a clone is because my school blocked the original 44vba so i have to take matters into my own hands. Please do not play this, go play the real 44vba, this is for my school.
